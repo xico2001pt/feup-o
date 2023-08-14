@@ -1,0 +1,12 @@
+a) Decision Variables: x1 and x2
+Objective function: f = x1 + x2
+Constraints:
+	2*x1 + x2 <= 7
+	-x1 + 2*x2 >= 0
+	x1 + 2*x2 <= 8
+
+b) Inside lines CD and CE
+
+c) Point E (2.8, 1.4)
+
+d) The solution would be in point C, S3 will enter the basis (line AD will be non-active) and S2 will leave the basis (line BD will become active).

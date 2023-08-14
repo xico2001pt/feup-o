@@ -1,0 +1,21 @@
+/*********************************************
+ * OPL 22.1.1.0 Data
+ * Author: Francisco Cerqueira
+ * Creation Date: 18/02/2023 at 12:19:50
+ *********************************************/
+
+ SheetConnection my_sheet("CorporationWeigelt.xlsx");
+ 
+ Factories from SheetRead(my_sheet, "Factories");
+ Prod_Sizes from SheetRead(my_sheet, "Prod_Sizes");
+ ProdCapacity from SheetRead(my_sheet, "ProdCapacity");
+ 
+ Profit from SheetRead(my_sheet, "Profit");
+ SalesForecast from SheetRead(my_sheet, "SalesForecast");
+ SpaceAvailable from SheetRead(my_sheet, "SpaceAvailable");
+ SpaceRequired from SheetRead(my_sheet, "SpaceRequired");
+ 
+ 
+ 
+ x to SheetWrite(my_sheet, "results");
+ 

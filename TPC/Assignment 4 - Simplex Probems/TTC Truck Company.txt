@@ -1,0 +1,16 @@
+3. Machine hours per model 103 truck:
+	Engine Assembly: 4000/5000 = 0.8
+	Metal Stamping: 6000/4000 = 1.5
+	Assembly: 2/2 = 1
+
+a) In order to maximize their profit Merton should not produce any 103 truck.
+
+b) Reduced cost for Model 103 is -350. 
+
+This shows that the contribution of model 103 must be >= (2000+350) = 2350 to be worth to be produced.
+
+4. From Sensitivity analysis it is clear that maximum 500 units of engine capacity can be added. Therefore, new constraint will be 1 * Model 101 + 2 * Model 102 <= 4500
+
+Solving on excel, we get an additional revenue of -50000€, meaning that should not assemble engines on overtime.
+
+5. Adding that constraint of -x + 3y = 0 and solving on excel, we get 2250 model 101 and 750 model 102.

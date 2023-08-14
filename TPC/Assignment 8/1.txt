@@ -1,0 +1,7 @@
+a) ii. v9 <= 26.5
+b) Lower bound = 25; Upper bound = 26.8;
+c) i. F
+   ii. F
+   iii. F
+   iv. A
+   v. NEI

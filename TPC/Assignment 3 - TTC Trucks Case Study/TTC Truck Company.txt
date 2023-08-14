@@ -1,0 +1,16 @@
+1.
+i) The best production mix is 2000 model 101 and 1000 model 102
+ii) The best production mix would be changed to 1999 of Model 101 and 1001 of Model 102. The increment of a machine-hour is worth a contribution increase of 2000€, which can also be seen in the Sensivity Report.
+iii) If we change the value to 4100 machine-hours, we get a contribution increase of 200000€, which is 100 times the previous increase.
+iv) According to the Sensivity Report, the Allowable Increase is 500. So, the number of units of engine assembly capacity that can be added before there is a change in the value of an additional of capacity is 501.
+2.
+To determine whether TTC should purchase engines from an outside supplier, the company must compare the cost of renting capacity with the cost of increasing capacity internally.
+So, we need to calculate the incremental contribution per machine-hour of capacity to determine the maximum rent it should be willing to pay for a machine-hour of engine assembly capacity.
+
+According to the results on the excel file, the profit for Model 101 and Model 102 are 3000€ and 5000€.
+The total hours for Model 101 and Model 102 production are 4h and 5h.
+So, the incremental profit are 3000€/4h=750€/h and 5000€/5h=1000€/h, respectively.
+
+Therefore, TTC should not rent capacity if the rental rate is greater than the incremental contribution.
+
+The maximum number of machine-hours TTC should rent is determined by the amount of demand for each truck model and the metal stamping and models assembly.

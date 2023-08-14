@@ -1,0 +1,5 @@
+a) Answer in file "9_a.png"
+
+b) The solution is exactly the same due to degeneracy and it is non-optimal
+
+c) The optimal solution would be (4, 2).

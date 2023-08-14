@@ -1,0 +1,13 @@
+/*********************************************
+ * OPL 22.1.1.0 Data
+ * Author: Francisco Cerqueira
+ * Creation Date: 18/02/2023 at 11:15:36
+ *********************************************/
+
+ Products 		= {"table", "chair"};
+ Sections 		= {"machining", "sanding", "assembly"};
+ 
+ Profit			= [100, 60];
+ TimePerSection	= [[5, 2], [4, 3], [3, 4]];
+ AvailableTime	= [270, 250, 200];
+ 

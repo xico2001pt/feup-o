@@ -1,0 +1,22 @@
+/*********************************************
+ * OPL 22.1.1.0 Data
+ * Author: Francisco Cerqueira
+ * Creation Date: 18/02/2023 at 11:23:01
+ *********************************************/
+// n = 4
+// m = 3
+
+SheetConnection my_sheet("TablesChairs_dataExcel1.xlsx");
+
+Products from SheetRead(my_sheet, "Products");
+
+profit from SheetRead(my_sheet, "Profit");
+machining from SheetRead(my_sheet, "Machining");
+sanding from SheetRead(my_sheet, "Sanding");
+assembly from SheetRead(my_sheet, "Assembly");
+
+timeMachining from SheetRead(my_sheet, "TimeMachining");
+timeSanding from SheetRead(my_sheet, "TimeSanding");
+timeAssembly from SheetRead(my_sheet, "TimeAssembly");
+
+x to SheetWrite(my_sheet, "results");

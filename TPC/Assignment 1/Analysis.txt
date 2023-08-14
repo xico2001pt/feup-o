@@ -1,0 +1,3 @@
+A implementação da restrição de todas as fábricas terem de produzir a mesma quantidade relativa de unidades por dia levou à redução do lucro diário total de 597500.00€ para 76666,67€, apesar de ser uma medida que visa uma distribuição equalitária na capacidade de produção das fábricas, com o objetivo de prevenir despedimentos de funcionários.
+
+A restrição também levou a que a fábrica 1 produzisse apenas 69.4 unidades por dia, ao invés das 750 iniciais, e a fábrica 2 apenas 83.3 unidades por dia, ao invés das 900 iniciais.

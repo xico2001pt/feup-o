@@ -1,0 +1,2 @@
+a) Maximization, as the restrictions are lowering the objective function.
+b) 

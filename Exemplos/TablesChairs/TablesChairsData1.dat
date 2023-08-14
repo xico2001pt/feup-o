@@ -1,0 +1,17 @@
+/*********************************************
+ * OPL 22.1.1.0 Data
+ * Author: Francisco Cerqueira
+ * Creation Date: 18/02/2023 at 10:41:56
+ *********************************************/
+
+ Products 		= {"table", "chair"};
+ 
+ profit 		= [100, 60];
+ machining 		= [5, 2];
+ sanding 		= [4, 3];
+ assembly 		= [3, 4];
+ 
+ timeMachining	= 270;
+ timeSanding	= 250;
+ timeAssembly	= 200;
+ 

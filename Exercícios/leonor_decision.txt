@@ -1,0 +1,19 @@
+(75.2K)
+|--- Accept offer from LESTA ---(72K)
+|
+|--- Refuse it ---(75.2K)
+                  |
+                  |--- 60% --- Gets the offer from FARTECH ---(80K)
+                  |                                           |
+                  |                                           |--- Accept ---(80K)
+                  |                                           |
+                  |                                           |--- Refuse ---(68K)
+                  |                                                          |
+                  |                                                          |--- 10% ---(90K)
+                  |                                                          |--- 50% ---(70K)
+                  |                                                          |--- 40% ---(60K)
+                  |--- 40% --- Wait for engineering job ---(68K)
+                                                           |
+                                                           |--- 10% ---(90K)
+                                                           |--- 50% ---(70K)
+                                                           |--- 40% ---(60K)
